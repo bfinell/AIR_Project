@@ -7,6 +7,9 @@ Abstract: Lately it has become more and more common to discard of the old ways o
 The main focus of the project will be to first query a/several large language models with a query and store the answers. The documents and answers will then both be processed and ranked for relevance against the query. What this project endeavours to find out is how the answers from a large language model perform in a relevance ranking against a dataset of documents.
 
 In this project we are using the [Wikipedia Summary Dataset](https://thijs.ai/Wikipedia-Summary-Dataset/)
+The dataset contains the extracted summaries of Wikipedia articles.
+A summary or introduction of an article is everything starting from the page title up to the content outline.
+
 
 The models used for this project are:
 - Microsoft/phi2
